@@ -19,7 +19,8 @@
     "mui-tel-input": "^8.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-router-dom": "^6.26.2",
+    "react-phone-input-2": "^2.15.1",
+    "react-router-dom": "^7.9.4",
     "styled-components": "^6.1.15"
   },
   "devDependencies": {
@@ -34,6 +35,6 @@
     "globals": "^15.15.0",
     "typescript": "~5.7.2",
     "typescript-eslint": "^8.24.1",
-    "vite": "^5.3.5"
+    "vite": "^6.2.0"
   }
 }
